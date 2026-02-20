@@ -1,12 +1,13 @@
-# Input Parameters Authentication via Dynamic Software Watermarking (Reproduction)
+# Input Parameters Authentication through Dynamic Software Watermarking
 
-This repository is a **reference implementation** of the solution described in:
+
+This repository is a reference implementation of the solution described in:
 
 > Pérez Gort, M. L. (2025). *Input parameters authentication through dynamic software watermarking.*  
 > Frontiers in Computer Science, 7, 1643075.  
 > https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2025.1643075/full
 
-The goal is to demonstrate, end-to-end, how **input parameters** can be authenticated using a **dynamic,
+The goal is to demonstrate, end-to-end, how input parameters can be authenticated using a **dynamic,
 heap-based watermark graph** that is only reconstructible when the correct parameter values are provided.
 
 ## What this code implements
